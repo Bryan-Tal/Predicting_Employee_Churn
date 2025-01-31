@@ -2,7 +2,7 @@
 Providing Data Driven Suggestions for HR
 
 ## Project Overview
-The goal of this project was to create a decision tree, random forest model, and XGBoost model to employee turnover. This project utilized data collected by the HR department. The final Random Forest model performed with 98.2% accuracy and 98.3% precision. Based on the model, the satisfaction level, average monthly hours worked, and previous evaluation score were the three most influential features in determining whether or not an employee will leave.
+The goal of this project was to create a decision tree, random forest model, and XGBoost model to predict employee turnover. This project utilized data collected by the HR department. The final Random Forest model performed with 98.2% accuracy and 98.3% precision. Based on the model, the satisfaction level, average monthly hours worked, and previous evaluation score were the three most influential features in determining whether or not an employee will leave.
 
 ## Business Understanding
 Predicting which employees are likely to quit can significantly benefit the company by reducing the time and costs associated with the recruitment process. Early identification of potential turnover enables HR to implement targeted strategies to improve employee retention, ensuring the organization can maintain productivity and focus on critical projects.
